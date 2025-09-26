@@ -11,41 +11,25 @@ Never give up. That’s the creed.
 **Ashes to Code (ATC)** is a dedicated devlog repository — separate from the BLUX codebase —
 to record the truth behind the work. It’s raw on purpose and meant to heal, not harm.
 
-- Code lives here → **BLUX Lite GOLD**: https://github.com/Justadudeinspace/blux-lite
+- Code lives here → **[BLUX Lite GOLD:](https://github.com/Justadudeinspace/blux-lite)**
 - Devlogs live here → **ATC** (this repo)
 
 ---
 
 ## 📑 Table of Contents
 - [About](#about)
-- [DevLogs](#devlog-latest-entries)
-- [Personal](#personallog-latest-entries)
-- [Flame Walker](#flame-walker-latest-entries)
+- [Indexes](#indexes)
 - [How to Add a New Entry](#how-to-add-a-new-entry)
 - [Creed](#creed)
 - [License](#license)
 
 ---
 
-## DevLog Latest Entries
-- **[DevLogs README](devlogs/README.md)**
-- **[Ashes to Code — 2025-09-25](devlog/2025-09-25.md)** — The flagship carries everything.
-- **[Ashes to Code — 2025-09-24](devlog/2025-09-24.md)** — Shelved repos, vision maintained.
-- **[Ashes to Code — 2025-09-23](devlog/2025-09-23.md)** — Walks with no aim, coding in motion.
-- **[Ashes to Code — 2025-09-22](devlog/2025-09-22.md)** — First entry. From fire, code.
-
-## PersonalLog Latest Entries
-Special entries and devlogs are part of the journey of BLUX.
-- **[Personal README](personal/README.md)**
-- **[2025-09-26 — The Shadow, Art of War, Be Water](personal/2025-09-26.md)**
-- **[2025-09-25 — Bushido, Psychology, Spirituality, Integration](personal/2025-09-25.md)**
-- **[2025-09-24 — Fatherhood](personal/2025-09-24.md)**
-- **[2025-09-23 — We Do Recover](personal/2025-09-23.md)**
-- **[2025-09-22 — Insanity](personal/2025-09-22.md)**
-## Flame Walker Latest Entries
-- **[Flame Walker README](flame_walker/README.md)**
-- **[Flame Walker — 2025-09-25](flame_walker/flame-walker-2025-09-25.md)**
-- **[Flame Walker — 2025-09-25](flame_walker/flame-walker-2025-09-26.md)**
+## Indexes
+- **[DevLogs Index](devlog/README.md)**
+- **[Personal Index](personal/README.md)**
+- **[Flame Walker Index](flame_walker/README.md)**
+- **[Collected Wisdom Index](collected_wisdom/README.md)**
 
 ---
 
@@ -71,7 +55,3 @@ This generates `devlog/YYYY-MM-DD.md` with the 5-part template (raw → anchor �
 
 ## License
 MIT — see [LICENSE](LICENSE).
-### DevLogs
-- See the running index in [`/devlog/README.md`](devlog/README.md)
-### Personal
-- Notes live in [`/personal/README.md`](personal/README.md)
