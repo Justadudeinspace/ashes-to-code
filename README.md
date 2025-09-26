@@ -29,6 +29,7 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 ## 📑 Table of Contents
 - [About](#about)
 - [Indexes](#indexes)
+- [Dedication](#dedication)
 - [How to Add a New Entry](#how-to-add-a-new-entry)
 - [Creed](#creed)
 - [License](#license)
@@ -40,6 +41,15 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 - **[Personal Index](personal/README.md)**
 - **[Flame Walker Index](flame_walker/README.md)**
 - **[Collected Wisdom Index](collected_wisdom/README.md)**
+
+---
+
+## Dedication
+
+See [DEDICATION.md](DEDICATION.md)  
+
+This project is not for applause or support — it is for my daughter.  
+Every log and every line of code is proof that I refused to quit.
 
 ---
 
