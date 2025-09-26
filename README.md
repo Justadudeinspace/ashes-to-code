@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/daisy.jpg" alt="Ashes to Code Banner" width="320" />
+  <img src="assets/briley.png" alt="Ashes to Code Banner" width="320" />
 
   <br/>
 
