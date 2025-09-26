@@ -28,7 +28,7 @@ This section of **Ashes to Code** captures the outer figures and archetypes that
 </details>
 
 <details>
-<summary>2025-09-25 — Untitled</summary>
+<summary>2025-09-25 — Speak Life</summary>
 
 - [Entry](flame-walker-2025-09-25.md)  
 ↳ Parallel: [DevLog](../devlog/2025-09-25.md), [Personal](../personal/2025-09-25.md)
