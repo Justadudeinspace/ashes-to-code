@@ -43,7 +43,8 @@ Special entries and devlogs are part of the journey of BLUX.
 - **[2025-09-22 — Insanity](personal/2025-09-22.md)**
 ## Flame Walker Latest Entries
 - **[Flame Walker README](flame_walker/README.md)**
-- **[Flame Walker — 2025-09-25](devlog/flame_walker/flame-walker-2025-09-25.md)**
+- **[Flame Walker — 2025-09-25](flame_walker/flame-walker-2025-09-25.md)**
+- **[Flame Walker — 2025-09-25](flame_walker/flame-walker-2025-09-26.md)**
 
 ---
 
