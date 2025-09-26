@@ -37,7 +37,7 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 ## PersonalLog Latest Entries
 Special entries and devlogs are part of the journey of BLUX.
 - **[Personal README](personal/README.md)**
-
+- **[Personal — 2025-09-25](personal/2025-09-25.md)
 ## Flame Walker Latest Entries
 - **[Flame Walker README](flame_walker/README.md)**
 - **[Flame Walker — 2025-09-25](devlog/flame_walker/flame-walker-2025-09-25.md)**
