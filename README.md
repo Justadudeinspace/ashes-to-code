@@ -37,6 +37,7 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 ## PersonalLog Latest Entries
 Special entries and devlogs are part of the journey of BLUX.
 - **[Personal README](personal/README.md)**
+- **[2025-09-26 — The Shadow, Art of War, Be Water](personal/2025-09-26.md)**
 - **[2025-09-25 — Bushido, Psychology, Spirituality, Integration](personal/2025-09-25.md)**
 - **[2025-09-24 — Fatherhood](personal/2025-09-24.md)**
 - **[2025-09-23 — We Do Recover](personal/2025-09-23.md)**
