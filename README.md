@@ -1,4 +1,14 @@
-# Ashes to Code (ATC)
+<div align="center">
+
+  <img src="assets/daisy.jpg" alt="Ashes to Code Banner" width="320" />
+
+  <br/>
+
+  <b>Ashes to Code (ATC)</b>
+
+</div>
+
+---
 
 
 _A living log of struggle, resilience, and code._  
