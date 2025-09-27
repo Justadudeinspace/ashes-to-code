@@ -15,6 +15,9 @@ _A living log of struggle, resilience, and code._
 **This is a therapy for me.**  
 Never give up. That’s the creed.
 
+> “A pen is only a pen, until somebody decides it’s a weapon.”  
+> — The Gato
+
 ---
 
 ## About

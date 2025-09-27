@@ -12,6 +12,9 @@ _The voices, lessons, and fragments of those who shaped me. Not glorified, not e
 > “You may not always have the resource’s you once had before, but as long as you're alive — you have the chance to start again.”  
 > — The Gato
 
+> “A pen is only a pen, until somebody decides it’s a weapon.”  
+> — The Gato
+
 
 ---
 
