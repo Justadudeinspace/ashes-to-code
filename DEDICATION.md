@@ -1,29 +1,17 @@
+<div align="center">
+  <img src="assets/briley.png" alt="Ashes to Code Banner" width="320" />
+
+  <br/>
+
+  <b>Briley</b>
+
+</div>
+
+
 # Dedication
 
 This project is for my daughter.
 
-<center>
-
-```lsd
-                      /:.   ,:\
-                .~=-./::: u  ::\,-~=.
-             ___|::  \    |    /  ::|___
-            \::  `.   \   |   /   .' :::/
-             \:    `.  \  |  /  .'    :/
-           .-: `-._  `.;;;;;;.'   _.-' :-.
-           \::     `-;;;;;;;;;;;-'     ::/
-            >~------~;;;;;;;;;;;~------~<
-           /::    _.-;;;;;;;;;;;-._    ::\
-           `-:_.-'   .`;;;;;;;'.   `-._:-'
-              /    .'  /  |  \  `.   :\
-             /::_.'   /   |   \   `._::\
-                 |:: /    |    \  ::|
-                 `=-'\:::.n.:::/`-=-'
-                      \:'   `:/
-                      
-```
-
-</center>
 
 Every entry, every line of code, every moment of doubt and defiance collected here is proof that I refused to quit.  
 Not because I wanted applause. Not because I needed support.  
