@@ -30,6 +30,7 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 - [About](#about)
 - [Indexes](#indexes)
 - [Dedication](#-dedication)
+- [Personal Growth](#-personal-growth)
 - [Quotes](#-quotes)
 - [How to Add a New Entry](#how-to-add-a-new-entry)
 - [Creed](#creed)
@@ -53,6 +54,15 @@ See **[DEDICATION](DEDICATION.md)**
 
 This project is not for applause or support — it is for my daughter.  
 Every log and every line of code is proof that I refused to quit.
+
+---
+
+## 🌱 Personal Growth
+
+A snapshot of progress as a developer and creator —  
+from fragile scripts and scattered repos to working systems, daily cadence, and a clear identity.
+
+→ [View PERSONAL_GROWTH.md](PERSONAL_GROWTH.md)
 
 ---
 
