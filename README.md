@@ -29,7 +29,8 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 ## 📑 Table of Contents
 - [About](#about)
 - [Indexes](#indexes)
-- [Dedication](#dedication)
+- [Dedication](#-dedication)
+- [Quotes](#-quotes)
 - [How to Add a New Entry](#how-to-add-a-new-entry)
 - [Creed](#creed)
 - [License](#license)
@@ -37,6 +38,8 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 ---
 
 ## Indexes
+"Logs/Entries live here. Each cataegory containing a different facet of the journey, but each tying together."
+
 - **[DevLogs Index](devlog/README.md)**
 - **[Personal Index](personal/README.md)**
 - **[Flame Walker Index](flame_walker/README.md)**
@@ -44,12 +47,21 @@ to record the truth behind the work. It’s raw on purpose and meant to heal, no
 
 ---
 
-## Dedication
+## 🔥 Dedication
 
-See [DEDICATION.md](DEDICATION.md)  
+See **[DEDICATION](DEDICATION.md)**  
 
 This project is not for applause or support — it is for my daughter.  
 Every log and every line of code is proof that I refused to quit.
+
+---
+
+## 📜 Quotes
+
+Collected fragments, mentors, and signal lines from across  
+**DevLogs**, **Personal Logs**, and **Flame Walker**.
+
+→ [View QUOTES.md](QUOTES.md)
 
 ---
 

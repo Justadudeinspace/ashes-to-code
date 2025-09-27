@@ -7,9 +7,22 @@ Each log distills wisdom, highlights integration, and tracks recurring signals.
 
 ---
 
-## Index
+# Collected Wisdom
 
-- [2025-09-27](2025-09-27.md) — **Gate Keepers / Adapt to Overcome / Courage + Healthy Defiance**
+_A living index of distilled lessons, philosophies, and fragments recorded through **Ashes to Code**._
+
+---
+
+## 2025
+
+<details>
+<summary>September</summary>
+
+- **[2025-09-27 — Gate Keepers / Adapt to Overcome / Courage + Healthy Defiance](2025-09-27.md)**
+- **[2025-09-28 — Honor / The Way / Change / Integration](2025-09-28.md)**
+
+</details>
+
 
 ---
 

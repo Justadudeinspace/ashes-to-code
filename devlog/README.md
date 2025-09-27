@@ -7,60 +7,27 @@ Every DevLog ties back into its Personal and Flame Walker parallels.
 
 ---
 
-## Index
+# DevLog
+
+_A living record of code, progress, and reflection through **Ashes to Code**._
+
+---
+
+## 2025
 
 <details>
-<summary>📅 2025 — September</summary>
+<summary>September</summary>
 
-<details>
-<summary>2025-09-27 — PoC3 Prep / Expected Changelog</summary>
-
-- [Entry](2025-09-27.md)  
-↳ Parallel: [Personal](../personal/2025-09-27.md), [Flame Walker](../flame_walker/flame-walker-2025-09-27.md)
+- [2025-09-22 — First Entry](2025-09-22.md)
+- [2025-09-23 — Recovery Mindset](2025-09-23.md)
+- [2025-09-24 — Steady Work](2025-09-24.md)
+- [2025-09-25 — Consistency / Integration](2025-09-25.md)
+- [2025-09-26 — Progress / Balance](2025-09-26.md)
+- [2025-09-27 — PoC3 Prep / Expected Changelog](2025-09-27.md)
+- [2025-09-28 — Honor / The Way / Change / Integration](2025-09-28.md)
 
 </details>
 
-<details>
-<summary>2025-09-26 — Progress + Balance</summary>
-
-- [Entry](2025-09-26.md)  
-↳ Parallel: [Personal](../personal/2025-09-26.md), [Flame Walker](../flame_walker/flame-walker-2025-09-26.md)
-
-</details>
-
-<details>
-<summary>2025-09-25 — Consistency & Integration</summary>
-
-- [Entry](2025-09-25.md)  
-↳ Parallel: [Personal](../personal/2025-09-25.md), [Flame Walker](../flame_walker/flame-walker-2025-09-25.md)
-
-</details>
-
-<details>
-<summary>2025-09-24 — Steady Work</summary>
-
-- [Entry](2025-09-24.md)  
-↳ Parallel: [Personal](../personal/2025-09-24.md), [Flame Walker](../flame_walker/flame-walker-2025-09-24.md)
-
-</details>
-
-<details>
-<summary>2025-09-23 — Recovery Mindset</summary>
-
-- [Entry](2025-09-23.md)  
-↳ Parallel: [Personal](../personal/2025-09-23.md), [Flame Walker](../flame_walker/flame-walker-2025-09-23.md)
-
-</details>
-
-<details>
-<summary>2025-09-22 — First Sparks</summary>
-
-- [Entry](2025-09-22.md)  
-↳ Parallel: [Personal](../personal/2025-09-22.md), [Flame Walker](../flame_walker/flame-walker-2025-09-22.md)
-
-</details>
-
-</details>
 
 ---
 
